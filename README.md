@@ -41,16 +41,10 @@ I actively contribute to global application security standards and develop open-
 
 ---
 
-### Open Source Standards & Ecosystem Contributions
+### Open Source & Standards
 
-- 🌐 **[OWASP Web Security Testing Guide (WSTG)](https://github.com/OWASP/wstg):** **[Official Author](https://github.com/OWASP/wstg/blob/master/document/1-About/README.md#authors)**. Authored modern testing methodologies for JSON Web Token security (WSTG-SESS-10: JWKS URL injection, embedded JWK spoofing, and issuer/audience confusion).
-- 🛡️ **[OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries):** Contributed defense-in-depth guidance against Cross-JWT and Token Type Confusion attacks (RFC 8725 / RFC 9068).
-- 📱 **[OWASP Mobile Application Security Testing Guide (MASTG)](https://github.com/OWASP/mastg):** Developing Swift Semgrep SAST security rules for iOS cryptographic algorithms and Keychain accessibility.
-- 💉 **[sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap):** Core DBMS error fingerprinting engine improvements and signatures for cloud & distributed SQL engines.
-- 🔑 **[gitleaks/gitleaks](https://github.com/gitleaks/gitleaks):** Official secret detection rule contributor for cloud and AI platforms (Supabase management tokens and administrative keys).
-- 🔍 **[OWASP Amass](https://github.com/owasp-amass/amass):** Contributed core scope/blacklist validation engine improvements and URLScan API integration for the flagship Attack Surface Management engine.
-- 🎯 **[OWASP Nettacker](https://github.com/OWASP/Nettacker):** Core API engine resilience and error handling improvements for automated penetration testing and vulnerability scanning.
-- ⚡ **[ProjectDiscovery Nuclei Templates](https://github.com/projectdiscovery/nuclei-templates):** Authored high-precision vulnerability detection signatures and CVE verification templates.
+- 🌐 **Standards:** **[OWASP WSTG](https://github.com/OWASP/wstg)** *(Official Author)* &nbsp;•&nbsp; **[OWASP Cheat Sheets](https://github.com/OWASP/CheatSheetSeries)** &nbsp;•&nbsp; **[OWASP MASTG](https://github.com/OWASP/mastg)**
+- ⚙️ **Security Tools:** **[sqlmap](https://github.com/sqlmapproject/sqlmap)** &nbsp;•&nbsp; **[Gitleaks](https://github.com/gitleaks/gitleaks)** &nbsp;•&nbsp; **[OWASP Amass](https://github.com/owasp-amass/amass)** &nbsp;•&nbsp; **[OWASP Nettacker](https://github.com/OWASP/Nettacker)** &nbsp;•&nbsp; **[Nuclei Templates](https://github.com/projectdiscovery/nuclei-templates)**
 
 ---
 
