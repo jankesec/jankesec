@@ -47,6 +47,7 @@ I actively contribute to global application security standards and develop open-
 - 🛡️ **[OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries):** Contributed defense-in-depth guidance against Cross-JWT and Token Type Confusion attacks (RFC 8725 / RFC 9068).
 - 📱 **[OWASP Mobile Application Security Testing Guide (MASTG)](https://github.com/OWASP/mastg):** Developing Swift Semgrep SAST security rules for iOS cryptographic algorithms and Keychain accessibility.
 - 💉 **[sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap):** Core DBMS error fingerprinting engine improvements and signatures for cloud & distributed SQL engines.
+- 🔑 **[gitleaks/gitleaks](https://github.com/gitleaks/gitleaks):** Official secret detection rule contributor for cloud and AI platforms (Supabase management tokens and administrative keys).
 - 🔍 **[OWASP Amass](https://github.com/owasp-amass/amass):** Contributed core scope/blacklist validation engine improvements and URLScan API integration for the flagship Attack Surface Management engine.
 - ⚡ **[ProjectDiscovery Nuclei Templates](https://github.com/projectdiscovery/nuclei-templates):** Authored high-precision vulnerability detection signatures and CVE verification templates.
 
