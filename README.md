@@ -36,6 +36,8 @@ I am currently a Senior Cyber Security Consultant at PwC Turkey, where I lead Re
 ### Open Source Contributions
 
 - **[`owasp-amass/amass`](https://github.com/owasp-amass/amass):** Core scope/blacklist validation engine improvements, URLScan API integration, and repository infrastructure for the flagship Attack Surface Management framework.
+- **[`OWASP/wstg`](https://github.com/OWASP/wstg):** Author and contributor to the OWASP Web Security Testing Guide, maintaining modern application security testing methodologies and offensive tradecraft.
+- **[`OWASP/CheatSheetSeries`](https://github.com/OWASP/CheatSheetSeries):** Authoring threat modeling and mitigation guides including Cross-JWT / token type confusion attack defenses.
 - **[`projectdiscovery/nuclei-templates`](https://github.com/projectdiscovery/nuclei-templates):** High-precision vulnerability detection and CVE templates with zero false-positive cryptographic verification.
 
 ---
