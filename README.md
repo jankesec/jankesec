@@ -12,9 +12,6 @@
   <a href="https://jankesec.com/cves/"><b>[ CVEs ]</b></a> &nbsp;•&nbsp; 
   <a href="https://jankesec.com/posts/"><b>[ Field Notes ]</b></a> &nbsp;•&nbsp; 
   <a href="https://jankesec.com/projects/"><b>[ Projects ]</b></a> &nbsp;•&nbsp; 
-  <a href="https://x.com/sevbandonmez"><b>[ X / Twitter ]</b></a> &nbsp;•&nbsp; 
-  <a href="https://linkedin.com/in/sevbandonmez"><b>[ LinkedIn ]</b></a> &nbsp;•&nbsp; 
-  <a href="https://patreon.com/jankesec"><b>[ Patreon ]</b></a> &nbsp;•&nbsp; 
   <a href="mailto:contact@jankesec.com"><b>[ Contact ]</b></a>
 </p>
 
