@@ -1,15 +1,18 @@
 <div align="center">
-  
-**Offensive Security Professional**
+
+# Sevban Dönmez (`jankesec`)
+
+**Senior Cyber Security Consultant · Red Team & Offensive Security Researcher**
 
 <p align="center">
+  <a href="https://github.com/OWASP/wstg/blob/master/document/1-About/README.md#authors"><img src="https://img.shields.io/badge/OWASP%20WSTG-Official%20Author-gold?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP WSTG Author"></a>
   <a href="https://jankesec.com"><img src="https://img.shields.io/badge/Research-jankesec.com-000000?style=for-the-badge&logo=shield&logoColor=00FF66" alt="Website"></a>
   <a href="https://github.com/jankesec"><img src="https://img.shields.io/badge/GitHub-PRO-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro"></a>
   <a href="https://keys.openpgp.org/search?q=FF0A7D836751CCE3F9CCF574FCF839FB7F004626"><img src="https://img.shields.io/badge/PGP-5FDB257F4AAE8C3F-000000?style=for-the-badge&logo=gnupg&logoColor=00FF66" alt="PGP Verified"></a>
 </p>
 
 <p align="center">
-  <a href="https://jankesec.com/cves/"><b>[ CVEs ]</b></a> &nbsp;•&nbsp; 
+  <a href="https://jankesec.com/cves/"><b>[ CVEs & Research ]</b></a> &nbsp;•&nbsp; 
   <a href="https://jankesec.com/posts/"><b>[ Field Notes ]</b></a> &nbsp;•&nbsp; 
   <a href="https://jankesec.com/projects/"><b>[ Projects ]</b></a> &nbsp;•&nbsp; 
   <a href="mailto:contact@jankesec.com"><b>[ Contact ]</b></a>
@@ -19,31 +22,37 @@
 
 ---
 
-I am currently a Senior Cyber Security Consultant at PwC Turkey, where I lead Red Team operations, complex penetration tests, and vulnerability assessments. Over the past 13+ years, offensive security has been both my profession and my primary intellectual obsession.
+### About
+
+I am a Senior Cyber Security Consultant at PwC Turkey, leading Red Team engagements, adversary simulations, and advanced vulnerability research. Over 13+ years in offensive security, my work spans low-level binary exploitation, cloud & identity security, mobile internals, and AI agent threat modeling.
+
+I actively contribute to global application security standards and develop open-source offensive & defensive security frameworks.
 
 ---
 
-### Projects
+### Flagship Security Tools
 
-- **[`ghostlink`](https://github.com/jankesec/ghostlink):** Covert C2 channel operating over legitimate enterprise infrastructure for authorized adversary simulation.
-- **[`mcpbait`](https://github.com/jankesec/mcpbait):** Red teaming framework demonstrating AI agent hijacking and indirect prompt injection via malicious Model Context Protocol (MCP) servers.
-- **[`driftnet2`](https://github.com/jankesec/driftnet2):** Passive network packet reconstruction and raw protocol inspection engine.
-- **[`evilcorp-ios`](https://github.com/jankesec/evilcorp-ios):** iOS application security challenge framework covering runtime manipulation, binary reversing, and mobile tradecraft.
-- **[`XRAY ASM`](https://jankesec.com/projects/xray-asm/)** · **[`GothamCity`](https://jankesec.com/projects/gothamcity/)** · **[`agentmordor`](https://jankesec.com/projects/agentmordor/):** Private platforms for evidence-driven attack surface management, detection validation, and AI agent authority mapping.
-
----
-
-### Open Source Contributions
-
-- **[`owasp-amass/amass`](https://github.com/owasp-amass/amass):** Core scope/blacklist validation engine improvements, URLScan API integration, and repository infrastructure for the flagship Attack Surface Management framework.
-- **[`OWASP/wstg`](https://github.com/OWASP/wstg):** Author and contributor to the OWASP Web Security Testing Guide, maintaining modern application security testing methodologies and offensive tradecraft.
-- **[`OWASP/CheatSheetSeries`](https://github.com/OWASP/CheatSheetSeries):** Authoring threat modeling and mitigation guides including Cross-JWT / token type confusion attack defenses.
-- **[`sqlmapproject/sqlmap`](https://github.com/sqlmapproject/sqlmap):** Core DBMS error fingerprinting engine improvements and fork signatures for modern cloud & distributed SQL engines.
-- **[`projectdiscovery/nuclei-templates`](https://github.com/projectdiscovery/nuclei-templates):** High-precision vulnerability detection and CVE templates with zero false-positive cryptographic verification.
+| Project | Description | Technology |
+| :--- | :--- | :--- |
+| **[`mcpbait`](https://github.com/jankesec/mcpbait)** | AI Agent & MCP Red Teaming framework proving whether agents can be hijacked via rogue servers. 13 local attack modules, in-process canary exfiltration, and automated resilience scoring. | `Python` · `MCP` · `AI Security` |
+| **[`evilcorp-ios`](https://github.com/jankesec/evilcorp-ios)** | Modern intentionally vulnerable iOS security benchmark featuring 30 hands-on challenges mapped to OWASP MASVS v2 & CWE, with embedded Frida scripts and live logging console. | `Swift` · `SwiftUI` · `MASVS v2` |
+| **[`driftnet2`](https://github.com/jankesec/driftnet2)** | High-performance kernel-level network sniffer and credential extractor. Features eBPF/XDP in-kernel packet capture on Linux, libpcap fallback, 9 protocol parsers, and dual red/blue audit modes. | `Go 1.24+` · `eBPF` · `XDP` · `pcap` |
+| **[`ghostlink`](https://github.com/jankesec/ghostlink)** | Surgical multi-channel Out-of-Band (OOB) data exfiltration & covert C2 framework in Go. Features 9 covert channels, Forward Error Correction (FEC), and dead-drop mode. | `Go 1.21+` · `C2` · `Covert Channels` |
 
 ---
 
-### Contact
+### Open Source Standards & Ecosystem Contributions
+
+- 🌐 **[OWASP Web Security Testing Guide (WSTG)](https://github.com/OWASP/wstg):** **[Official Author](https://github.com/OWASP/wstg/blob/master/document/1-About/README.md#authors)**. Authored modern testing methodologies for JSON Web Token security (WSTG-SESS-10: JWKS URL injection, embedded JWK spoofing, and issuer/audience confusion).
+- 🛡️ **[OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries):** Contributed defense-in-depth guidance against Cross-JWT and Token Type Confusion attacks (RFC 8725 / RFC 9068).
+- 📱 **[OWASP Mobile Application Security Testing Guide (MASTG)](https://github.com/OWASP/mastg):** Developing Swift Semgrep SAST security rules for iOS cryptographic algorithms and Keychain accessibility.
+- 💉 **[sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap):** Core DBMS error fingerprinting engine improvements and signatures for cloud & distributed SQL engines.
+- 🔍 **[OWASP Amass](https://github.com/owasp-amass/amass):** Contributed core scope/blacklist validation engine improvements and URLScan API integration for the flagship Attack Surface Management engine.
+- ⚡ **[ProjectDiscovery Nuclei Templates](https://github.com/projectdiscovery/nuclei-templates):** Authored high-precision vulnerability detection signatures and CVE verification templates.
+
+---
+
+### Cryptographic Identity & Contact
 
 ```text
 PGP Fingerprint : FF0A 7D83 6751 CCE3 F9CC F574 FCF8 39FB 7F00 4626
@@ -53,5 +62,5 @@ Website         : https://jankesec.com
 ```
 
 <div align="center">
-  <sub>Open source security contributor • All research, field notes, and code releases are cryptographically signed.</sub>
+  <sub>All research, field notes, and code releases are cryptographically signed with GPG.</sub>
 </div>
