@@ -39,7 +39,6 @@ I am currently a Senior Cyber Security Consultant at PwC Turkey, where I lead Re
 PGP Fingerprint : FF0A 7D83 6751 CCE3 F9CC F574 FCF8 39FB 7F00 4626
 GPG Key ID      : 5FDB257F4AAE8C3F
 Signed Comms    : contact@jankesec.com
-Social          : x.com/sevbandonmez • linkedin.com/in/sevbandonmez
 Website         : https://jankesec.com
 ```
 
