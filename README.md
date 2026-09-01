@@ -1,6 +1,6 @@
 <div align="center">
   
-**Offensive Security Professional • Open Source Contributor**
+**Offensive Security Professional**
 
 <p align="center">
   <a href="https://jankesec.com"><img src="https://img.shields.io/badge/Research-jankesec.com-000000?style=for-the-badge&logo=shield&logoColor=00FF66" alt="Website"></a>
