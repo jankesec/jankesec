@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sevban Dönmez (`jankesec`)
+# Sevban Dönmez
 
 **Senior Cyber Security Consultant · Red Team & Offensive Security Researcher**
 
