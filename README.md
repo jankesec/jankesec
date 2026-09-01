@@ -49,6 +49,7 @@ I actively contribute to global application security standards and develop open-
 - 💉 **[sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap):** Core DBMS error fingerprinting engine improvements and signatures for cloud & distributed SQL engines.
 - 🔑 **[gitleaks/gitleaks](https://github.com/gitleaks/gitleaks):** Official secret detection rule contributor for cloud and AI platforms (Supabase management tokens and administrative keys).
 - 🔍 **[OWASP Amass](https://github.com/owasp-amass/amass):** Contributed core scope/blacklist validation engine improvements and URLScan API integration for the flagship Attack Surface Management engine.
+- 🎯 **[OWASP Nettacker](https://github.com/OWASP/Nettacker):** Core API engine resilience and error handling improvements for automated penetration testing and vulnerability scanning.
 - ⚡ **[ProjectDiscovery Nuclei Templates](https://github.com/projectdiscovery/nuclei-templates):** Authored high-precision vulnerability detection signatures and CVE verification templates.
 
 ---
