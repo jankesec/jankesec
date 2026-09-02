@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://jankesec.com/cves/"><b>[ CVEs & Research ]</b></a> &nbsp;•&nbsp; 
+  <a href="https://jankesec.com/cves/"><b>[ CVEs &amp; Research ]</b></a> &nbsp;•&nbsp; 
   <a href="https://jankesec.com/posts/"><b>[ Field Notes ]</b></a> &nbsp;•&nbsp; 
   <a href="https://jankesec.com/projects/"><b>[ Projects ]</b></a> &nbsp;•&nbsp; 
   <a href="mailto:contact@jankesec.com"><b>[ Contact ]</b></a>
@@ -41,10 +41,11 @@ I actively contribute to global application security standards and develop open-
 
 ---
 
-### Open Source & Standards
+### Contributed & Ecosystem
 
-- 🌐 **Standards:** **[OWASP WSTG](https://github.com/OWASP/wstg)** &nbsp;•&nbsp; **[OWASP Cheat Sheets](https://github.com/OWASP/CheatSheetSeries)** &nbsp;•&nbsp; **[OWASP MASTG](https://github.com/OWASP/mastg)**
-- ⚙️ **Security Tools:** **[sqlmap](https://github.com/sqlmapproject/sqlmap)** &nbsp;•&nbsp; **[Gitleaks](https://github.com/gitleaks/gitleaks)** &nbsp;•&nbsp; **[OWASP Amass](https://github.com/owasp-amass/amass)** &nbsp;•&nbsp; **[OWASP Nettacker](https://github.com/OWASP/Nettacker)** &nbsp;•&nbsp; **[Nuclei Templates](https://github.com/projectdiscovery/nuclei-templates)**
+- 🌐 **Standards:** **[OWASP WSTG](https://github.com/OWASP/wstg)** *(Official Author)* &nbsp;•&nbsp; **[OWASP MASTG](https://github.com/OWASP/mastg)** &nbsp;•&nbsp; **[OWASP Cheat Sheets](https://github.com/OWASP/CheatSheetSeries)**
+- 🛡️ **Secret & Vuln Scanners:** **[Gitleaks](https://github.com/gitleaks/gitleaks)** &nbsp;•&nbsp; **[Anchore Grype](https://github.com/anchore/grype)** &nbsp;•&nbsp; **[ProjectDiscovery Nuclei](https://github.com/projectdiscovery/nuclei-templates)**
+- ⚙️ **Offensive & Audit Tooling:** **[sqlmap](https://github.com/sqlmapproject/sqlmap)** &nbsp;•&nbsp; **[OWASP Amass](https://github.com/owasp-amass/amass)** &nbsp;•&nbsp; **[CISOfy Lynis](https://github.com/CISOfy/lynis)**
 
 ---
 
