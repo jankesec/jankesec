@@ -41,14 +41,6 @@ I actively contribute to global application security standards and develop open-
 
 ---
 
-### Contributed & Ecosystem
-
-- 🌐 **Standards:** **[OWASP WSTG](https://github.com/OWASP/wstg)** *(Official Author)* &nbsp;•&nbsp; **[OWASP MASTG](https://github.com/OWASP/mastg)** &nbsp;•&nbsp; **[OWASP Cheat Sheets](https://github.com/OWASP/CheatSheetSeries)**
-- 🛡️ **Secret & Vuln Scanners:** **[Gitleaks](https://github.com/gitleaks/gitleaks)** &nbsp;•&nbsp; **[Anchore Grype](https://github.com/anchore/grype)** &nbsp;•&nbsp; **[ProjectDiscovery Nuclei](https://github.com/projectdiscovery/nuclei-templates)**
-- ⚙️ **Offensive & Audit Tooling:** **[sqlmap](https://github.com/sqlmapproject/sqlmap)** &nbsp;•&nbsp; **[OWASP Amass](https://github.com/owasp-amass/amass)** &nbsp;•&nbsp; **[CISOfy Lynis](https://github.com/CISOfy/lynis)**
-
----
-
 ### Cryptographic Identity & Contact
 
 ```text
