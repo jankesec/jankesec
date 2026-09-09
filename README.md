@@ -1,6 +1,6 @@
 # Sevban Dönmez
 
-Senior Cyber Security Consultant at PwC specializing in offensive security, vulnerability research, and penetration testing. Over 13+ years of experience spanning adversary simulation, low-level binary exploitation, kernel networking (eBPF/XDP), and emerging attack surfaces.
+Senior Cyber Security Consultant at PwC specializing in offensive security, vulnerability research, and penetration testing. Over 13+ years of offensive experience, having conducted 400+ enterprise-grade penetration tests and adversary simulations across critical infrastructure and global organizations.
 
 Official OWASP Author (WSTG) · Contributor to Mobile (MASTG) & AI (AITG) Standards.
 
