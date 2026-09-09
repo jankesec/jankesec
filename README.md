@@ -22,7 +22,7 @@ Official Author at [OWASP](https://github.com/OWASP) (WSTG) · Contributor acros
 | :--- | :--- | :--- |
 | [mcpbait](https://github.com/jankesec/mcpbait) | Red teaming framework for AI agents and Model Context Protocol (MCP) integrations. | Python |
 | [driftnet2](https://github.com/jankesec/driftnet2) | High-performance packet capture and credential extractor leveraging eBPF/XDP. | Go, eBPF |
-| [evilcorp-ios](https://github.com/jankesec/evilcorp-ios) | Intentionally vulnerable iOS benchmark application mapped to OWASP MASVS v2. | Swift |
+| [evilcorp-ios](https://github.com/jankesec/evilcorp-ios) | Intentionally vulnerable iOS benchmark application mapped to OWASP MASVS v2 & MASWE. | Swift |
 | [ghostlink](https://github.com/jankesec/ghostlink) | Multi-channel Out-of-Band (OOB) covert C2 and data exfiltration framework. | Go |
 
 ---
