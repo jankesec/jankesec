@@ -1,55 +1,48 @@
-<div align="center">
-
 # Sevban Dönmez
 
-**Senior Cyber Security Consultant · Red Team & Offensive Security Researcher**
+Senior Cyber Security Consultant at PwC specializing in offensive security, vulnerability research, and advanced penetration testing. Over 13+ years of experience spanning adversary simulation, low-level binary exploitation, kernel networking (eBPF/XDP), and emerging attack surfaces.
 
-<p align="center">
-  <a href="https://github.com/OWASP/wstg/blob/master/document/1-About/README.md#authors"><img src="https://img.shields.io/badge/OWASP%20WSTG-Official%20Author-gold?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP WSTG Author"></a>
-  <a href="https://jankesec.com"><img src="https://img.shields.io/badge/Research-jankesec.com-000000?style=for-the-badge&logo=shield&logoColor=00FF66" alt="Website"></a>
-  <a href="https://github.com/jankesec"><img src="https://img.shields.io/badge/GitHub-PRO-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pro"></a>
-  <a href="https://keys.openpgp.org/search?q=FF0A7D836751CCE3F9CCF574FCF839FB7F004626"><img src="https://img.shields.io/badge/PGP-5FDB257F4AAE8C3F-000000?style=for-the-badge&logo=gnupg&logoColor=00FF66" alt="PGP Verified"></a>
-</p>
+Official Author at [OWASP](https://github.com/OWASP) (Web Security Testing Guide).
 
-<p align="center">
-  <a href="https://jankesec.com/cves/"><b>[ CVEs &amp; Research ]</b></a> &nbsp;•&nbsp; 
-  <a href="https://jankesec.com/posts/"><b>[ Field Notes ]</b></a> &nbsp;•&nbsp; 
-  <a href="https://jankesec.com/projects/"><b>[ Projects ]</b></a> &nbsp;•&nbsp; 
-  <a href="mailto:contact@jankesec.com"><b>[ Contact ]</b></a>
-</p>
-
-</div>
+[Research & Advisories](https://jankesec.com/cves/) · [Field Notes](https://jankesec.com/posts/) · [Projects](https://jankesec.com/projects/) · [Keybase / PGP](https://keys.openpgp.org/search?q=FF0A7D836751CCE3F9CCF574FCF839FB7F004626)
 
 ---
 
-### About
+### Focus Areas
 
-I am a Senior Cyber Security Consultant at PwC Turkey, leading Red Team engagements, adversary simulations, and advanced vulnerability research. Over 13+ years in offensive security, my work spans low-level binary exploitation, cloud & identity security, mobile internals, and AI agent threat modeling.
-
-I actively contribute to global application security standards and develop open-source offensive & defensive security frameworks.
+- Vulnerability Research: Deep-dive vulnerability analysis, low-level binary reversing, and coordinated vulnerability disclosure (CVD).
+- Offensive Security: Red team operations, covert C2 channels, data exfiltration pipelines, and defense evasion.
+- Penetration Testing: Comprehensive security assessments across complex enterprise infrastructure, cloud environments, and mobile internals.
 
 ---
 
-### Flagship Security Tools
+### Selected Security Tooling
 
-| Project | Description | Technology |
+| Project | Focus & Architecture | Stack |
 | :--- | :--- | :--- |
-| **[`mcpbait`](https://github.com/jankesec/mcpbait)** | AI Agent & MCP Red Teaming framework proving whether agents can be hijacked via rogue servers. 13 local attack modules, in-process canary exfiltration, and automated resilience scoring. | `Python` · `MCP` · `AI Security` |
-| **[`evilcorp-ios`](https://github.com/jankesec/evilcorp-ios)** | Modern intentionally vulnerable iOS security benchmark featuring 30 hands-on challenges mapped to OWASP MASVS v2 & CWE, with embedded Frida scripts and live logging console. | `Swift` · `SwiftUI` · `MASVS v2` |
-| **[`driftnet2`](https://github.com/jankesec/driftnet2)** | High-performance kernel-level network sniffer and credential extractor. Features eBPF/XDP in-kernel packet capture on Linux, libpcap fallback, 9 protocol parsers, and dual red/blue audit modes. | `Go 1.24+` · `eBPF` · `XDP` · `pcap` |
-| **[`ghostlink`](https://github.com/jankesec/ghostlink)** | Surgical multi-channel Out-of-Band (OOB) data exfiltration & covert C2 framework in Go. Features 9 covert channels, Forward Error Correction (FEC), and dead-drop mode. | `Go 1.21+` · `C2` · `Covert Channels` |
+| [mcpbait](https://github.com/jankesec/mcpbait) | AI Agent & MCP red teaming framework; rogue tool injection and canary exfiltration. | Python, MCP, LLM Security |
+| [driftnet2](https://github.com/jankesec/driftnet2) | High-performance credential extractor leveraging in-kernel eBPF/XDP packet capture. | Go, eBPF, XDP, libpcap |
+| [evilcorp-ios](https://github.com/jankesec/evilcorp-ios) | Vulnerable iOS security benchmark mapped to OWASP MASVS v2 & CWE with embedded Frida tooling. | Swift, SwiftUI, MASVS |
+| [ghostlink](https://github.com/jankesec/ghostlink) | Multi-channel Out-of-Band (OOB) covert C2 and data exfiltration framework. | Go, Covert Channels |
+
+---
+
+### Ecosystem Contributions & Disclosures
+
+- **OWASP Foundation:** Official Author and core contributor to the Web Security Testing Guide (WSTG), setting global testing methodologies.
+- **Security Toolchains:** Upstream code and feature contributor across open-source offensive & defensive frameworks, including [ProjectDiscovery](https://github.com/projectdiscovery) tooling.
+- **Coordinated Disclosures:** Security disclosures and vulnerability reporting handled via GitHub Security Advisories (GHSA) and official CVE channels.
 
 ---
 
 ### Cryptographic Identity & Contact
 
-```text
-PGP Fingerprint : FF0A 7D83 6751 CCE3 F9CC F574 FCF8 39FB 7F00 4626
-GPG Key ID      : 5FDB257F4AAE8C3F
-Signed Comms    : contact@jankesec.com
-Website         : https://jankesec.com
-```
+Coordinated disclosures and signed communications:
 
-<div align="center">
-  <sub>All research, field notes, and code releases are cryptographically signed with GPG.</sub>
-</div>
+```text
+Identity        : Sevban Dönmez (jankesec)
+PGP Fingerprint : FF0A 7D83 6751 CCE3 F9CC F574 FCF8 39FB 7F00 4626
+Key ID          : 5FDB257F4AAE8C3F
+Key Verification: https://keys.openpgp.org/search?q=FF0A7D836751CCE3F9CCF574FCF839FB7F004626
+Signed Comms    : contact@jankesec.com
+```
