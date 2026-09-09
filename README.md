@@ -2,7 +2,7 @@
 
 Senior Cyber Security Consultant at PwC specializing in offensive security, vulnerability research, and advanced penetration testing. Over 13+ years of experience spanning adversary simulation, low-level binary exploitation, kernel networking (eBPF/XDP), and emerging attack surfaces.
 
-Official Author at [OWASP](https://github.com/OWASP) (Web Security Testing Guide).
+Official Author at [OWASP](https://github.com/OWASP) (Web Security Testing Guide) · Contributor to AI Testing Guide (AITG).
 
 [Research & Advisories](https://jankesec.com/cves/) · [Field Notes](https://jankesec.com/posts/) · [Projects](https://jankesec.com/projects/) · [PGP Key](https://jankesec.com/pgp/)
 
@@ -29,9 +29,19 @@ Official Author at [OWASP](https://github.com/OWASP) (Web Security Testing Guide
 
 ### Ecosystem Contributions & Disclosures
 
-- **OWASP Foundation:** Official Author and core contributor to the Web Security Testing Guide (WSTG), setting global testing methodologies.
-- **Security Toolchains:** Upstream code and feature contributor across open-source offensive & defensive frameworks, including [ProjectDiscovery](https://github.com/projectdiscovery) tooling.
-- **Coordinated Disclosures:** Security disclosures and vulnerability reporting handled via GitHub Security Advisories (GHSA) and official CVE channels.
+- **OWASP Foundation Standards:**
+  - Official Author, *Web Security Testing Guide (WSTG)*.
+  - Core Contributor, *AI Testing Guide (AITG)*: Authoring testing methodologies for agentic memory poisoning, multimodal jailbreaks, and MCP tool poisoning.
+  - Contributor, *Mobile Application Security Testing Guide (MASTG)*.
+- **Operating System Hardening & Infrastructure:**
+  - Vulnerability remediation and security hardening across *TÜBİTAK Pardus Linux* OS packages (mitigating privilege escalations, command/argument injections, and path traversals).
+  - Drafted the official Pardus Coordinated Vulnerability Disclosure (CVD) Policy & Hall of Fame.
+- **Detection Engineering & Security Toolchains:**
+  - Upstream contributor to *ProjectDiscovery* (authoring Nuclei CVE detection templates).
+  - Rule and engine contributions to *Gitleaks* and *CISOfy Lynis* auditing frameworks.
+- **Vulnerability Research & Disclosures:**
+  - Discoverer of credited CVEs across enterprise software and network appliances (tracked via TR-CERT & NVD).
+  - Curated threat intelligence feeds and advisories published at [jankesec.com/cves](https://jankesec.com/cves/) and `/threat-intel.json`.
 
 ---
 
