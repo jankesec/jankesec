@@ -2,7 +2,7 @@
 
 Senior Cyber Security Consultant at PwC specializing in offensive security, vulnerability research, and penetration testing. Over 13+ years of experience spanning adversary simulation, low-level binary exploitation, kernel networking (eBPF/XDP), and emerging attack surfaces.
 
-Official Author at [OWASP](https://github.com/OWASP) (Web Security Testing Guide).
+Official Author at [OWASP](https://github.com/OWASP) (WSTG) · Contributor across Web, Mobile & AI Security Standards.
 
 [Research & CVEs](https://jankesec.com/cves/) · [Field Notes](https://jankesec.com/posts/) · [Projects](https://jankesec.com/projects/) · [PGP Key](https://jankesec.com/pgp/)
 
@@ -29,7 +29,7 @@ Official Author at [OWASP](https://github.com/OWASP) (Web Security Testing Guide
 
 ### Ecosystem Contributions & Disclosures
 
-- **OWASP Foundation:** Official Author, *Web Security Testing Guide (WSTG)*.
+- **OWASP Foundation:** Official Author of the *Web Security Testing Guide (WSTG)*, with active contributions across the *AI Testing Guide (AITG)* and *Mobile Application Security Testing Guide (MASTG)*.
 - **Open Source Ecosystem & Tooling:** Active voluntary contributor dedicated to supporting and securing the open-source community, with upstream contributions across *ProjectDiscovery*, security frameworks, and Linux utilities.
 - **Vulnerability Research:** Author of credited CVEs across enterprise software and network appliances (tracked via TR-CERT & NVD). Disclosures and write-ups published at [jankesec.com/cves](https://jankesec.com/cves/).
 
