@@ -30,7 +30,7 @@ Official Author at [OWASP](https://github.com/OWASP) (Web Security Testing Guide
 ### Ecosystem Contributions & Disclosures
 
 - **OWASP Foundation:** Official Author, *Web Security Testing Guide (WSTG)*.
-- **Security Toolchains:** Upstream contributor to *ProjectDiscovery* (`nuclei-templates`) and open-source Linux utilities.
+- **Open Source Ecosystem & Tooling:** Active voluntary contributor dedicated to supporting and securing the open-source community, with upstream contributions across *ProjectDiscovery*, security frameworks, and Linux utilities.
 - **Vulnerability Research:** Author of credited CVEs across enterprise software and network appliances (tracked via TR-CERT & NVD). Disclosures and write-ups published at [jankesec.com/cves](https://jankesec.com/cves/).
 
 ---
