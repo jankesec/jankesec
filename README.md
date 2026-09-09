@@ -2,7 +2,7 @@
 
 Senior Cyber Security Consultant at PwC specializing in offensive security, vulnerability research, and penetration testing. Over 13+ years of experience spanning adversary simulation, low-level binary exploitation, kernel networking (eBPF/XDP), and emerging attack surfaces.
 
-Official Author at [OWASP](https://github.com/OWASP) (WSTG) · Contributor across Web, Mobile & AI Security Standards.
+Official OWASP Author (WSTG) · Contributor to Mobile (MASTG) & AI (AITG) Standards.
 
 [Research & CVEs](https://jankesec.com/cves/) · [Field Notes](https://jankesec.com/posts/) · [Projects](https://jankesec.com/projects/) · [PGP Key](https://jankesec.com/pgp/)
 
@@ -10,7 +10,7 @@ Official Author at [OWASP](https://github.com/OWASP) (WSTG) · Contributor acros
 
 ### Focus Areas
 
-- Vulnerability Research: Broad-spectrum vulnerability discovery, reverse engineering, and coordinated disclosure across diverse software architectures, protocols, and platforms.
+- Vulnerability Research: Broad-spectrum vulnerability discovery, reverse engineering, and responsible disclosure across diverse software architectures, protocols, and enterprise bug bounty programs.
 - Offensive Security: Comprehensive adversary simulation, end-to-end red team operations, and offensive capability development across modern enterprise defense perimeters.
 - Penetration Testing: Full-scope penetration testing spanning web & mobile applications, internal/external networks, cloud environments, APIs, and enterprise identity infrastructures.
 
@@ -31,7 +31,7 @@ Official Author at [OWASP](https://github.com/OWASP) (WSTG) · Contributor acros
 
 - **OWASP Foundation:** Official Author of the *Web Security Testing Guide (WSTG)*, with active contributions across the *AI Testing Guide (AITG)* and *Mobile Application Security Testing Guide (MASTG)*.
 - **Open Source Ecosystem & Tooling:** Active voluntary contributor dedicated to supporting and securing the open-source community, with upstream contributions across *ProjectDiscovery*, security frameworks, and Linux utilities.
-- **Vulnerability Research:** Author of credited CVEs across enterprise software and network appliances (tracked via TR-CERT & NVD). Disclosures and write-ups published at [jankesec.com/cves](https://jankesec.com/cves/).
+- **Vulnerability Research & Bug Bounty:** Author of credited CVEs across enterprise software and network appliances (tracked via TR-CERT & NVD), with a proven responsible disclosure track record across enterprise bug bounty programs. Disclosures and write-ups published at [jankesec.com/cves](https://jankesec.com/cves/).
 
 ---
 
