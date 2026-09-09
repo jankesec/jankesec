@@ -4,7 +4,7 @@ Senior Cyber Security Consultant at PwC specializing in offensive security, vuln
 
 Official Author at [OWASP](https://github.com/OWASP) (Web Security Testing Guide).
 
-[Research & Advisories](https://jankesec.com/cves/) · [Field Notes](https://jankesec.com/posts/) · [Projects](https://jankesec.com/projects/) · [Keybase / PGP](https://keys.openpgp.org/search?q=FF0A7D836751CCE3F9CCF574FCF839FB7F004626)
+[Research & Advisories](https://jankesec.com/cves/) · [Field Notes](https://jankesec.com/posts/) · [Projects](https://jankesec.com/projects/) · [PGP Key](https://jankesec.com/pgp/)
 
 ---
 
@@ -43,6 +43,7 @@ Coordinated disclosures and signed communications:
 Identity        : Sevban Dönmez (jankesec)
 PGP Fingerprint : FF0A 7D83 6751 CCE3 F9CC F574 FCF8 39FB 7F00 4626
 Key ID          : 5FDB257F4AAE8C3F
-Key Verification: https://keys.openpgp.org/search?q=FF0A7D836751CCE3F9CCF574FCF839FB7F004626
+Public Key      : https://jankesec.com/pgp-key.txt
+Verification    : https://jankesec.com/pgp/
 Signed Comms    : contact@jankesec.com
 ```
