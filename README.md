@@ -22,6 +22,7 @@ Official OWASP Author (WSTG) · Contributor to Mobile (MASTG) & AI (AITG) Standa
 | :--- | :--- | :--- |
 | [mcpbait](https://github.com/jankesec/mcpbait) | Red teaming framework for AI agents and Model Context Protocol (MCP) integrations. | Python |
 | [driftnet2](https://github.com/jankesec/driftnet2) | High-performance packet capture and credential extractor leveraging eBPF/XDP. | Go, eBPF |
+| [macharden](https://github.com/jankesec/macharden) | Modern macOS hardening, baseline drift & audit engine (50 CIS/NIST controls, SARIF). | Zsh, Bash |
 | [evilcorp-ios](https://github.com/jankesec/evilcorp-ios) | Intentionally vulnerable iOS benchmark application mapped to OWASP MASVS v2 & MASWE. | Swift |
 | [ghostlink](https://github.com/jankesec/ghostlink) | Multi-channel Out-of-Band (OOB) covert C2 and data exfiltration framework. | Go |
 
