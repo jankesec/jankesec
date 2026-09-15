@@ -18,13 +18,13 @@ Official OWASP Author (WSTG) · Contributor to Mobile (MASTG) & AI (AITG) Standa
 
 ### Selected Security Tooling
 
-| Project | Focus | Stack |
-| :--- | :--- | :--- |
-| [mcpbait](https://github.com/jankesec/mcpbait) | Red teaming framework for AI agents and Model Context Protocol (MCP) integrations. | Python |
-| [driftnet2](https://github.com/jankesec/driftnet2) | High-performance packet capture and credential extractor leveraging eBPF/XDP. | Go, eBPF |
-| [macharden](https://github.com/jankesec/macharden) | Modern macOS hardening, baseline drift & audit engine (50 CIS/NIST controls, SARIF). | Zsh, Bash |
-| [evilcorp-ios](https://github.com/jankesec/evilcorp-ios) | Intentionally vulnerable iOS benchmark application mapped to OWASP MASVS v2 & MASWE. | Swift |
-| [ghostlink](https://github.com/jankesec/ghostlink) | Multi-channel Out-of-Band (OOB) covert C2 and data exfiltration framework. | Go |
+| Project | Focus | Stack | Popularity |
+| :--- | :--- | :--- | :---: |
+| [**macharden**](https://github.com/jankesec/macharden) | Enterprise-grade macOS security audit, baseline drift & hardening engine (54 CIS/NIST controls, OASIS SARIF v2.1.0, Liquid Glass HTML5, zero dependencies). | Zsh, Bash | [![Stars](https://img.shields.io/github/stars/jankesec/macharden?style=flat&color=30363d&labelColor=161b22)](https://github.com/jankesec/macharden/stargazers) |
+| [**mcpbait**](https://github.com/jankesec/mcpbait) | Adversarial red-teaming framework for AI agents & Model Context Protocol (MCP) servers (13 MITRE ATLAS modules, canary traps, memory & schema poisoning). | Python, FastMCP | [![Stars](https://img.shields.io/github/stars/jankesec/mcpbait?style=flat&color=30363d&labelColor=161b22)](https://github.com/jankesec/mcpbait/stargazers) |
+| [**driftnet2**](https://github.com/jankesec/driftnet2) | High-performance network packet capture, passive recon, protocol dissection & credential extractor leveraging eBPF/XDP. | Go, eBPF, C | [![Stars](https://img.shields.io/github/stars/jankesec/driftnet2?style=flat&color=30363d&labelColor=161b22)](https://github.com/jankesec/driftnet2/stargazers) |
+| [**evilcorp-ios**](https://github.com/jankesec/evilcorp-ios) | Intentionally vulnerable iOS benchmark application mapped to OWASP MASVS v2 & MASWE. | Swift | [![Stars](https://img.shields.io/github/stars/jankesec/evilcorp-ios?style=flat&color=30363d&labelColor=161b22)](https://github.com/jankesec/evilcorp-ios/stargazers) |
+| [**ghostlink**](https://github.com/jankesec/ghostlink) | Multi-channel Out-of-Band (OOB) covert C2 and data exfiltration framework. | Go | [![Stars](https://img.shields.io/github/stars/jankesec/ghostlink?style=flat&color=30363d&labelColor=161b22)](https://github.com/jankesec/ghostlink/stargazers) |
 
 ---
 
