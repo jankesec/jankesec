@@ -4,8 +4,6 @@ Senior Cyber Security Consultant at PwC with 5+ years of corporate experience sp
 
 Official OWASP Author (WSTG) · Contributor to Mobile (MASTG) & AI (AITG) Standards.
 
-[Research & CVEs](https://jankesec.com/cves/) · [Field Notes](https://jankesec.com/posts/) · [Projects](https://jankesec.com/projects/) · [PGP Key](https://jankesec.com/pgp/)
-
 ---
 
 ### Focus Areas
