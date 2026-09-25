@@ -30,7 +30,7 @@ Official OWASP Author (WSTG) · Contributor to Mobile (MASTG) & AI (AITG) Standa
 
 - **OWASP Foundation:** Official Author of the *Web Security Testing Guide (WSTG)*, with active contributions across the *AI Testing Guide (AITG)* and *Mobile Application Security Testing Guide (MASTG)*.
 - **Open Source Ecosystem & Tooling:** Active voluntary contributor dedicated to supporting and securing the open-source community, with upstream contributions across *ProjectDiscovery*, security frameworks, and Linux utilities.
-- **Vulnerability Research & Bug Bounty:** Author of credited CVEs across enterprise software and network appliances (tracked via TR-CERT & NVD), with a proven responsible disclosure track record across enterprise bug bounty programs. Disclosures and write-ups published at [jankesec.com/cves](https://jankesec.com/cves/).
+- **Vulnerability Research** Author of credited CVEs across enterprise software and network appliances (tracked via TR-CERT & NVD), with a proven responsible disclosure track record across enterprise bug bounty programs.
 
 ---
 
