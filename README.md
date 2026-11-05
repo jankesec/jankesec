@@ -1,36 +1,38 @@
 # Sevban Dönmez
 
-Senior Cyber Security Consultant at PwC with 5+ years of corporate experience specializing in offensive security, vulnerability research, and penetration testing. Backed by 14+ years of hands-on security research, I have conducted more than 400 enterprise-grade penetration tests and discovered over 100 zero-day vulnerabilities across critical infrastructure and enterprise environments.
+**Senior Cyber Security Consultant at PwC** · **Offensive Security & Vulnerability Researcher**
 
-Official OWASP Author (WSTG) · Contributor to Mobile (MASTG) & AI (AITG) Standards.
+Senior Cyber Security Consultant with 5+ years of corporate consulting experience and 14+ years of hands-on offensive security research. I have conducted 400+ enterprise-grade penetration tests and adversary simulations, and discovered 100+ zero-day vulnerabilities across critical infrastructure, enterprise software, and open-source ecosystems.
 
 ---
 
 ### Focus Areas
 
-- Vulnerability Research: Broad-spectrum vulnerability discovery, reverse engineering, and responsible disclosure across diverse software architectures, protocols, and enterprise bug bounty programs.
-- Offensive Security: Comprehensive adversary simulation, end-to-end red team operations, and offensive capability development across modern enterprise defense perimeters.
-- Penetration Testing: Full-scope penetration testing spanning web & mobile applications, internal/external networks, cloud environments, APIs, and enterprise identity infrastructures.
+- **Vulnerability Research:** Root-cause analysis, reverse engineering, variant hunting, and coordinated vulnerability disclosure (CVD) across diverse software architectures, network protocols, and enterprise bug bounty programs.
+- **Offensive Security:** End-to-end adversary simulation, red team operations, covert command-and-control (C2) engineering, and offensive capability development across modern enterprise defense perimeters.
+- **Penetration Testing:** Full-scope security assessments spanning web & mobile applications (iOS/Android internals), internal/external networks, Active Directory & identity infrastructures, cloud environments, and AI agent surfaces.
 
 ---
 
 ### Selected Security Tooling
 
-| Project | Focus | Stack | Popularity |
+| Project | Focus & Capabilities | Stack | Popularity |
 | :--- | :--- | :--- | :---: |
-| [**macharden**](https://github.com/jankesec/macharden) | Enterprise-grade macOS security audit, baseline drift & hardening engine (54 CIS/NIST controls, OASIS SARIF v2.1.0, Liquid Glass HTML5, zero dependencies). | Zsh, Bash | [![Stars](https://img.shields.io/github/stars/jankesec/macharden?style=flat&color=30363d&labelColor=161b22)](https://github.com/jankesec/macharden/stargazers) |
-| [**mcpbait**](https://github.com/jankesec/mcpbait) | Adversarial red-teaming framework for AI agents & Model Context Protocol (MCP) servers (13 MITRE ATLAS modules, canary traps, memory & schema poisoning). | Python, FastMCP | [![Stars](https://img.shields.io/github/stars/jankesec/mcpbait?style=flat&color=30363d&labelColor=161b22)](https://github.com/jankesec/mcpbait/stargazers) |
-| [**driftnet2**](https://github.com/jankesec/driftnet2) | High-performance network packet capture, passive recon, protocol dissection & credential extractor leveraging eBPF/XDP. | Go, eBPF, C | [![Stars](https://img.shields.io/github/stars/jankesec/driftnet2?style=flat&color=30363d&labelColor=161b22)](https://github.com/jankesec/driftnet2/stargazers) |
-| [**evilcorp-ios**](https://github.com/jankesec/evilcorp-ios) | Intentionally vulnerable iOS benchmark application mapped to OWASP MASVS v2 & MASWE. | Swift | [![Stars](https://img.shields.io/github/stars/jankesec/evilcorp-ios?style=flat&color=30363d&labelColor=161b22)](https://github.com/jankesec/evilcorp-ios/stargazers) |
-| [**ghostlink**](https://github.com/jankesec/ghostlink) | Multi-channel Out-of-Band (OOB) covert C2 and data exfiltration framework. | Go | [![Stars](https://img.shields.io/github/stars/jankesec/ghostlink?style=flat&color=30363d&labelColor=161b22)](https://github.com/jankesec/ghostlink/stargazers) |
+| [**macharden**](https://github.com/jankesec/macharden) | Read-only macOS security audit, baseline drift & hardening engine (54 CIS, NIST SP 800-53 & MITRE ATT&CK checks, OASIS SARIF v2.1.0, CI gates, HTML5 dashboard, zero dependencies). | `Zsh` `Python` | [![Stars](https://img.shields.io/github/stars/jankesec/macharden?style=flat&color=30363d&labelColor=161b22)](https://github.com/jankesec/macharden/stargazers) |
+| [**ghostlink**](https://github.com/jankesec/ghostlink) | Multi-channel Out-of-Band (OOB) covert C2 and data exfiltration framework (9 covert channels, ECDHE/AES-256-GCM, XOR FEC parity, dead-drop & SQLi OOB bridge). | `Go` | [![Stars](https://img.shields.io/github/stars/jankesec/ghostlink?style=flat&color=30363d&labelColor=161b22)](https://github.com/jankesec/ghostlink/stargazers) |
+| [**driftnet2**](https://github.com/jankesec/driftnet2) | Kernel-level network sniffer, protocol dissector & credential interceptor powered by eBPF/XDP and libpcap (9 protocol engines, Hashcat-ready NTLMv2, exposure audit). | `Go` `eBPF` `C` | [![Stars](https://img.shields.io/github/stars/jankesec/driftnet2?style=flat&color=30363d&labelColor=161b22)](https://github.com/jankesec/driftnet2/stargazers) |
+| [**mcpbait**](https://github.com/jankesec/mcpbait) | In-process adversarial red-teaming framework for AI agents & Model Context Protocol (MCP) servers (13 MITRE ATLAS modules, canary traps, memory & schema poisoning, SARIF). | `Python` `MCP` | [![Stars](https://img.shields.io/github/stars/jankesec/mcpbait?style=flat&color=30363d&labelColor=161b22)](https://github.com/jankesec/mcpbait/stargazers) |
+| [**evilcorp-ios**](https://github.com/jankesec/evilcorp-ios) | Intentionally vulnerable iOS benchmark application featuring 30 hands-on challenges mapped to OWASP MASVS v2, MASWE & CWE with embedded Frida scripts. | `Swift` `SwiftUI` | [![Stars](https://img.shields.io/github/stars/jankesec/evilcorp-ios?style=flat&color=30363d&labelColor=161b22)](https://github.com/jankesec/evilcorp-ios/stargazers) |
+
+> **Quick Install:** `brew install jankesec/tap/macharden` · `brew install jankesec/tap/driftnet2` · `pip install mcpbait`
 
 ---
 
 ### Ecosystem Contributions & Disclosures
 
-- **OWASP Foundation:** Official Author of the *Web Security Testing Guide (WSTG)*, with active contributions across the *AI Testing Guide (AITG)* and *Mobile Application Security Testing Guide (MASTG)*.
-- **Open Source Ecosystem & Tooling:** Active voluntary contributor dedicated to supporting and securing the open-source community, with upstream contributions across *ProjectDiscovery*, security frameworks, and Linux utilities.
-- **Vulnerability Research** Author of credited CVEs across enterprise software and network appliances (tracked via TR-CERT & NVD), with a proven responsible disclosure track record across enterprise bug bounty programs.
+- **OWASP Foundation:** Contributor to the *[Web Security Testing Guide (WSTG)](https://github.com/OWASP/wstg)*, *[Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries)*, and *[API Security Project](https://github.com/OWASP/API-Security)*.
+- **Open Source Security Tooling:** Upstream contributor with merged patches and detection templates across *[Aqua Security Trivy](https://github.com/aquasecurity/trivy)*, *[ProjectDiscovery Nuclei](https://github.com/projectdiscovery/nuclei-templates)*, and open-source web services.
+- **Vulnerability Research & Disclosures:** Credited author of multiple CVEs across open-source packages, enterprise software, and network appliances (tracked via GitHub CNA / GHSA, NVD, and TR-CERT), alongside a proven coordinated disclosure track record across global bug bounty programs.
 
 ---
 
