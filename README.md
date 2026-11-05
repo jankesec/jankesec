@@ -16,22 +16,20 @@ Senior Cyber Security Consultant with 5+ years of corporate consulting experienc
 
 ### Selected Security Tooling
 
-| Project | Focus & Capabilities | Stack | Popularity |
-| :--- | :--- | :--- | :---: |
-| [**macharden**](https://github.com/jankesec/macharden) | Read-only macOS security audit, baseline drift & hardening engine (54 CIS, NIST SP 800-53 & MITRE ATT&CK checks, OASIS SARIF v2.1.0, CI gates, HTML5 dashboard, zero dependencies). | `Zsh` `Python` | [![Stars](https://img.shields.io/github/stars/jankesec/macharden?style=flat&color=30363d&labelColor=161b22)](https://github.com/jankesec/macharden/stargazers) |
-| [**ghostlink**](https://github.com/jankesec/ghostlink) | Multi-channel Out-of-Band (OOB) covert C2 and data exfiltration framework (9 covert channels, ECDHE/AES-256-GCM, XOR FEC parity, dead-drop & SQLi OOB bridge). | `Go` | [![Stars](https://img.shields.io/github/stars/jankesec/ghostlink?style=flat&color=30363d&labelColor=161b22)](https://github.com/jankesec/ghostlink/stargazers) |
-| [**driftnet2**](https://github.com/jankesec/driftnet2) | Kernel-level network sniffer, protocol dissector & credential interceptor powered by eBPF/XDP and libpcap (9 protocol engines, Hashcat-ready NTLMv2, exposure audit). | `Go` `eBPF` `C` | [![Stars](https://img.shields.io/github/stars/jankesec/driftnet2?style=flat&color=30363d&labelColor=161b22)](https://github.com/jankesec/driftnet2/stargazers) |
-| [**mcpbait**](https://github.com/jankesec/mcpbait) | In-process adversarial red-teaming framework for AI agents & Model Context Protocol (MCP) servers (13 MITRE ATLAS modules, canary traps, memory & schema poisoning, SARIF). | `Python` `MCP` | [![Stars](https://img.shields.io/github/stars/jankesec/mcpbait?style=flat&color=30363d&labelColor=161b22)](https://github.com/jankesec/mcpbait/stargazers) |
-| [**evilcorp-ios**](https://github.com/jankesec/evilcorp-ios) | Intentionally vulnerable iOS benchmark application featuring 30 hands-on challenges mapped to OWASP MASVS v2, MASWE & CWE with embedded Frida scripts. | `Swift` `SwiftUI` | [![Stars](https://img.shields.io/github/stars/jankesec/evilcorp-ios?style=flat&color=30363d&labelColor=161b22)](https://github.com/jankesec/evilcorp-ios/stargazers) |
-
-> **Quick Install:** `brew install jankesec/tap/macharden` · `brew install jankesec/tap/driftnet2` · `pip install mcpbait`
+| Project | Focus & Capabilities |
+| :--- | :--- |
+| [**macharden**](https://github.com/jankesec/macharden) | Read-only macOS security audit, baseline drift & hardening engine (54 CIS, NIST SP 800-53 & MITRE ATT&CK checks, OASIS SARIF v2.1.0, CI gates, HTML5 dashboard, zero dependencies). |
+| [**ghostlink**](https://github.com/jankesec/ghostlink) | Multi-channel Out-of-Band (OOB) covert C2 and data exfiltration framework (9 covert channels, ECDHE/AES-256-GCM, XOR FEC parity, dead-drop & SQLi OOB bridge). |
+| [**driftnet2**](https://github.com/jankesec/driftnet2) | Kernel-level network sniffer, protocol dissector & credential interceptor powered by eBPF/XDP and libpcap (9 protocol engines, Hashcat-ready NTLMv2, exposure audit). |
+| [**mcpbait**](https://github.com/jankesec/mcpbait) | In-process adversarial red-teaming framework for AI agents & Model Context Protocol (MCP) servers (13 MITRE ATLAS modules, canary traps, memory & schema poisoning, SARIF). |
+| [**evilcorp-ios**](https://github.com/jankesec/evilcorp-ios) | Intentionally vulnerable iOS benchmark application featuring 30 hands-on challenges mapped to OWASP MASVS v2, MASWE & CWE with embedded Frida scripts. |
 
 ---
 
 ### Ecosystem Contributions & Disclosures
 
 - **OWASP Foundation:** Contributor to the *[Web Security Testing Guide (WSTG)](https://github.com/OWASP/wstg)*, *[Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries)*, and *[API Security Project](https://github.com/OWASP/API-Security)*.
-- **Open Source Security Tooling:** Upstream contributor with merged patches and detection templates across *[Aqua Security Trivy](https://github.com/aquasecurity/trivy)*, *[ProjectDiscovery Nuclei](https://github.com/projectdiscovery/nuclei-templates)*, and open-source web services.
+- **Open Source Security Tooling:** Contributor to *[Aqua Security Trivy](https://github.com/aquasecurity/trivy)*, *[ProjectDiscovery Nuclei](https://github.com/projectdiscovery/nuclei-templates)*, and open-source security projects.
 - **Vulnerability Research & Disclosures:** Credited author of multiple CVEs across open-source packages, enterprise software, and network appliances (tracked via GitHub CNA / GHSA, NVD, and TR-CERT), alongside a proven coordinated disclosure track record across global bug bounty programs.
 
 ---
