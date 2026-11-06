@@ -23,7 +23,6 @@ Senior Cyber Security Consultant with 5+ years of corporate consulting experienc
 | [**driftnet2**](https://github.com/jankesec/driftnet2) | Kernel-level network sniffer, protocol dissector & credential interceptor powered by eBPF/XDP and libpcap (9 protocol engines, Hashcat-ready NTLMv2, exposure audit). |
 | [**mcpbait**](https://github.com/jankesec/mcpbait) | In-process adversarial red-teaming framework for AI agents & Model Context Protocol (MCP) servers (13 MITRE ATLAS modules, canary traps, memory & schema poisoning, SARIF). |
 | [**evilcorp-ios**](https://github.com/jankesec/evilcorp-ios) | Intentionally vulnerable iOS benchmark application featuring 30 hands-on challenges mapped to OWASP MASVS v2, MASWE & CWE with embedded Frida scripts. |
-| [**logsign-rce**](https://github.com/jankesec/logsign-rce) | Logsign Unified SecOps Platform pre-auth authentication bypass (CVE-2024-5716) and command injection RCE (CVE-2024-5717) exploit chain & Nuclei detection suite. |
 
 ---
 
