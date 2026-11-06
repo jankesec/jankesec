@@ -16,14 +16,14 @@ Senior Cyber Security Consultant with 5+ years of corporate consulting experienc
 
 ### Selected Security Tooling
 
-| Project | Focus & Capabilities | ★ Stars |
-| :--- | :--- | :---: |
-| [**macharden**](https://github.com/jankesec/macharden) | Read-only macOS security audit, baseline drift & hardening engine (54 CIS, NIST SP 800-53 & MITRE ATT&CK checks, OASIS SARIF v2.1.0, CI gates, HTML5 dashboard, zero dependencies). | <a href="https://github.com/jankesec/macharden/stargazers"><img src="https://img.shields.io/github/stars/jankesec/macharden?style=flat&label=%E2%98%85%20Stars&color=30363d&labelColor=161b22" height="28" alt="Stars" /></a> |
-| [**ghostlink**](https://github.com/jankesec/ghostlink) | Multi-channel Out-of-Band (OOB) covert C2 and data exfiltration framework (9 covert channels, ECDHE/AES-256-GCM, XOR FEC parity, dead-drop & SQLi OOB bridge). | <a href="https://github.com/jankesec/ghostlink/stargazers"><img src="https://img.shields.io/github/stars/jankesec/ghostlink?style=flat&label=%E2%98%85%20Stars&color=30363d&labelColor=161b22" height="28" alt="Stars" /></a> |
-| [**driftnet2**](https://github.com/jankesec/driftnet2) | Kernel-level network sniffer, protocol dissector & credential interceptor powered by eBPF/XDP and libpcap (9 protocol engines, Hashcat-ready NTLMv2, exposure audit). | <a href="https://github.com/jankesec/driftnet2/stargazers"><img src="https://img.shields.io/github/stars/jankesec/driftnet2?style=flat&label=%E2%98%85%20Stars&color=30363d&labelColor=161b22" height="28" alt="Stars" /></a> |
-| [**mcpbait**](https://github.com/jankesec/mcpbait) | In-process adversarial red-teaming framework for AI agents & Model Context Protocol (MCP) servers (13 MITRE ATLAS modules, canary traps, memory & schema poisoning, SARIF). | <a href="https://github.com/jankesec/mcpbait/stargazers"><img src="https://img.shields.io/github/stars/jankesec/mcpbait?style=flat&label=%E2%98%85%20Stars&color=30363d&labelColor=161b22" height="28" alt="Stars" /></a> |
-| [**evilcorp-ios**](https://github.com/jankesec/evilcorp-ios) | Intentionally vulnerable iOS benchmark application featuring 30 hands-on challenges mapped to OWASP MASVS v2, MASWE & CWE with embedded Frida scripts. | <a href="https://github.com/jankesec/evilcorp-ios/stargazers"><img src="https://img.shields.io/github/stars/jankesec/evilcorp-ios?style=flat&label=%E2%98%85%20Stars&color=30363d&labelColor=161b22" height="28" alt="Stars" /></a> |
-| [**logsign-rce**](https://github.com/jankesec/logsign-rce) | Logsign Unified SecOps Platform pre-auth authentication bypass (CVE-2024-5716) and command injection RCE (CVE-2024-5717) exploit chain & Nuclei detection suite. | <a href="https://github.com/jankesec/logsign-rce/stargazers"><img src="https://img.shields.io/github/stars/jankesec/logsign-rce?style=flat&label=%E2%98%85%20Stars&color=30363d&labelColor=161b22" height="28" alt="Stars" /></a> |
+| Project | Focus & Capabilities |
+| :--- | :--- |
+| [**macharden**](https://github.com/jankesec/macharden) | Read-only macOS security audit, baseline drift & hardening engine (54 CIS, NIST SP 800-53 & MITRE ATT&CK checks, OASIS SARIF v2.1.0, CI gates, HTML5 dashboard, zero dependencies). |
+| [**ghostlink**](https://github.com/jankesec/ghostlink) | Multi-channel Out-of-Band (OOB) covert C2 and data exfiltration framework (9 covert channels, ECDHE/AES-256-GCM, XOR FEC parity, dead-drop & SQLi OOB bridge). |
+| [**driftnet2**](https://github.com/jankesec/driftnet2) | Kernel-level network sniffer, protocol dissector & credential interceptor powered by eBPF/XDP and libpcap (9 protocol engines, Hashcat-ready NTLMv2, exposure audit). |
+| [**mcpbait**](https://github.com/jankesec/mcpbait) | In-process adversarial red-teaming framework for AI agents & Model Context Protocol (MCP) servers (13 MITRE ATLAS modules, canary traps, memory & schema poisoning, SARIF). |
+| [**evilcorp-ios**](https://github.com/jankesec/evilcorp-ios) | Intentionally vulnerable iOS benchmark application featuring 30 hands-on challenges mapped to OWASP MASVS v2, MASWE & CWE with embedded Frida scripts. |
+| [**logsign-rce**](https://github.com/jankesec/logsign-rce) | Logsign Unified SecOps Platform pre-auth authentication bypass (CVE-2024-5716) and command injection RCE (CVE-2024-5717) exploit chain & Nuclei detection suite. |
 
 ---
 
