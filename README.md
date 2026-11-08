@@ -16,13 +16,14 @@ Senior Cyber Security Consultant with 5+ years of corporate consulting experienc
 
 ### Selected Security Tooling
 
-| Project | Focus & Capabilities |
-| :--- | :--- |
-| [**macharden**](https://github.com/jankesec/macharden) | Read-only macOS security audit, baseline drift & hardening engine (54 CIS, NIST SP 800-53 & MITRE ATT&CK checks, OASIS SARIF v2.1.0, CI gates, HTML5 dashboard, zero dependencies). |
-| [**ghostlink**](https://github.com/jankesec/ghostlink) | Multi-channel Out-of-Band (OOB) covert C2 and data exfiltration framework (9 covert channels, ECDHE/AES-256-GCM, XOR FEC parity, dead-drop & SQLi OOB bridge). |
-| [**driftnet2**](https://github.com/jankesec/driftnet2) | Kernel-level network sniffer, protocol dissector & credential interceptor powered by eBPF/XDP and libpcap (9 protocol engines, Hashcat-ready NTLMv2, exposure audit). |
-| [**mcpbait**](https://github.com/jankesec/mcpbait) | In-process adversarial red-teaming framework for AI agents & Model Context Protocol (MCP) servers (13 MITRE ATLAS modules, canary traps, memory & schema poisoning, SARIF). |
-| [**evilcorp-ios**](https://github.com/jankesec/evilcorp-ios) | Intentionally vulnerable iOS benchmark application featuring 30 hands-on challenges mapped to OWASP MASVS v2, MASWE & CWE with embedded Frida scripts. |
+| Project | Focus & Capabilities | Stars |
+| :--- | :--- | :---: |
+| [**macharden**](https://github.com/jankesec/macharden) | Read-only macOS security audit, baseline drift & hardening engine (54 CIS, NIST SP 800-53 & MITRE ATT&CK checks, OASIS SARIF v2.1.0, CI gates, HTML5 dashboard, zero dependencies). | [![Stars](https://img.shields.io/github/stars/jankesec/macharden?style=flat-square&color=111111)](https://github.com/jankesec/macharden/stargazers) |
+| [**ghostlink**](https://github.com/jankesec/ghostlink) | Multi-channel Out-of-Band (OOB) covert C2 and data exfiltration framework (9 covert channels, ECDHE/AES-256-GCM, XOR FEC parity, dead-drop & SQLi OOB bridge). | [![Stars](https://img.shields.io/github/stars/jankesec/ghostlink?style=flat-square&color=111111)](https://github.com/jankesec/ghostlink/stargazers) |
+| [**driftnet2**](https://github.com/jankesec/driftnet2) | Kernel-level network sniffer, protocol dissector & credential interceptor powered by eBPF/XDP and libpcap (9 protocol engines, Hashcat-ready NTLMv2, exposure audit). | [![Stars](https://img.shields.io/github/stars/jankesec/driftnet2?style=flat-square&color=111111)](https://github.com/jankesec/driftnet2/stargazers) |
+| [**mcpbait**](https://github.com/jankesec/mcpbait) | In-process adversarial red-teaming framework for AI agents & Model Context Protocol (MCP) servers (13 MITRE ATLAS modules, canary traps, memory & schema poisoning, SARIF). | [![Stars](https://img.shields.io/github/stars/jankesec/mcpbait?style=flat-square&color=111111)](https://github.com/jankesec/mcpbait/stargazers) |
+| [**evilcorp-ios**](https://github.com/jankesec/evilcorp-ios) | Intentionally vulnerable iOS benchmark application featuring 30 hands-on challenges mapped to OWASP MASVS v2, MASWE & CWE with embedded Frida scripts. | [![Stars](https://img.shields.io/github/stars/jankesec/evilcorp-ios?style=flat-square&color=111111)](https://github.com/jankesec/evilcorp-ios/stargazers) |
+| [**evilcorp-android**](https://github.com/jankesec/evilcorp-android) | Intentionally vulnerable Android benchmark application featuring 42 hands-on challenges mapped to OWASP MASVS v2, MASTG, MASWE & CWE with embedded Frida/ADB/jadx scripts. | [![Stars](https://img.shields.io/github/stars/jankesec/evilcorp-android?style=flat-square&color=111111)](https://github.com/jankesec/evilcorp-android/stargazers) |
 
 ---
 
