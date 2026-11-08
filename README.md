@@ -47,3 +47,9 @@ Public Key      : https://jankesec.com/pgp-key.txt
 Verification    : https://jankesec.com/pgp/
 Signed Comms    : contact@jankesec.com
 ```
+
+<p align="center">
+  <a href="https://buymeacoffee.com/sevbandonmez">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-sevbandonmez-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+</p>
