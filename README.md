@@ -44,7 +44,7 @@ Coordinated disclosures and signed communications:
 ```text
 Identity        : Sevban Dönmez (jankesec)
 PGP Fingerprint : FF0A 7D83 6751 CCE3 F9CC F574 FCF8 39FB 7F00 4626
-Key ID          : 5FDB257F4AAE8C3F
+Key ID          : FCF839FB7F004626
 Public Key      : https://jankesec.com/pgp-key.txt
 Verification    : https://jankesec.com/pgp/
 Signed Comms    : contact@jankesec.com
