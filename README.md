@@ -2,7 +2,7 @@
 
 **Senior Cyber Security Consultant at PwC** · **Offensive Security & Vulnerability Researcher**
 
-[Website](https://jankesec.com) · [PGP](https://jankesec.com/pgp/) · [Contact](https://jankesec.com/contact/)
+[Website](https://jankesec.com) · [Contact](https://jankesec.com/contact/)
 
 With 5+ years of corporate consulting experience and 14+ years of hands-on offensive security research, I have conducted 400+ enterprise-grade penetration tests and adversary simulations and discovered 100+ zero-day vulnerabilities across critical infrastructure, enterprise software, and open-source ecosystems.
 
